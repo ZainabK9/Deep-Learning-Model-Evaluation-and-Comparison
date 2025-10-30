@@ -4,7 +4,7 @@ This repository provides scripts to train, fine-tune, and evaluate three deep le
 
 **Version**: 1.0  
 **Last Updated**: May 14, 2025  
-**Authors**: Zainab Kadour, Megan Kundra, Deniz Kaya
+**Authors**: Zainab 
 
 ## Contents
 
@@ -148,7 +148,8 @@ Open a Pull Request.
 
 Please ensure your code follows the existing style and includes appropriate documentation.
 License
-© 2025 Zainab Kadour, Megan Kundra, Deniz Kaya. This project is licensed under the MIT License. See the LICENSE file for details.
+© 2025 Zainab
 
 ---
+
 
